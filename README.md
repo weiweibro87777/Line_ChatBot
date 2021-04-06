@@ -4,7 +4,8 @@
 LineBot_QRCode:
 ![image](https://github.com/weiweibro87777/Line_ChatBot/blob/main/bot_qrcode.png)
 
---- 指令教學 ---
+--- 指令教學 ---   
+
 表特  > 今天我...想奶奶了   
 
 厭世  > 來點負能量   
